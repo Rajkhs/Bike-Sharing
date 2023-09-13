@@ -27,10 +27,10 @@ The buisness problem is to invest and maintain inventory of bike based on climat
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 As per our final Model, the top 3 predictor variables that influences the bike booking are:
-- Conclusion 2 'atemp': A coefficient value of ‘0.5779’ indicated that a unit increase in atemp variable, increases the bike hire numbers by 0.5779 units.
-- Conclusion 3 'weathersit_lightrain': A coefficient value of ‘-0.3070’ indicated that, w.r.t weathersit_lightrain, a unit increase in weathersit_lightrain variable, decreases the bike hire numbers by 0.3070 units.
-- Conclusion 4 'yr': A coefficient value of ‘0.2342’ indicated that a unit increase in yr variable, increases the bike hire numbers by 0.2342 units. So, it's suggested to consider these variables utmost importance while planning, to achive maximum Bookings¶
+As per our final Model, the top 3 predictor variables that influences the bike booking are:
+- 'atemp': A coefficient value of ‘0.5779’ indicated that a unit increase in atemp variable, increases the bike hire numbers by 0.5779 units.
+- 'weathersit_lightrain': A coefficient value of ‘-0.3070’ indicated that, w.r.t weathersit_lightrain, a unit increase in weathersit_lightrain variable, decreases the bike hire numbers by 0.3070 units.
+- 'yr': A coefficient value of ‘0.2342’ indicated that a unit increase in yr variable, increases the bike hire numbers by 0.2342 units. So, it's suggested to consider these variables utmost importance while planning, to achive maximum Bookings¶
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
